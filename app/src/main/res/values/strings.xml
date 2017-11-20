@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_string">Welcome to Inventory App! to add your first product tap + button below and fill product information and click on save.</string>
+</resources>
